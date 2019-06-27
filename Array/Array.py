@@ -3,6 +3,8 @@
 # create date: 2019-06-27
 
 """这是一个数组模块，class: PyArray()
+
+只实现了数组的一个insert功能。
 """
 
 
